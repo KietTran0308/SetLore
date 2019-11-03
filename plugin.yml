@@ -1,0 +1,10 @@
+name: SetLore
+main: WoolChannel3295\Lore\Main
+api: 3.0.0
+version: 3.0.0
+author: WoolChannel3295
+commands:
+  setlore:
+    permission: setlore.command
+    default: op
+    description: "Set Lore Command"
