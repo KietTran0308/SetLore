@@ -1,7 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KietTran0308/SetLore
-branches:
-- master
-projects:
-  SetLore:
-    path: ""
-...
